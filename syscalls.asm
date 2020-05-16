@@ -1,4 +1,3 @@
-
 segment .data
 	puts_gets_format_string db "%s",0 ; DO NOT DELETE, TEMPORARY FOR GETS() AND PUTS()
 	holdrand dd 1                     ; DO NOT DELETE, TEMPORARY FOR RAND()
